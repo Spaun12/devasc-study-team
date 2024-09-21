@@ -1,3 +1,8 @@
+HEAD
 I am on my way to passing the DevNet DEVASC exam
+
+I am on my way to passing the NetAcad DEVASC exam
+test
 I am beginning to understand Git!
+vim DEVASC.txt
 This text was added originally while in the feature branch
